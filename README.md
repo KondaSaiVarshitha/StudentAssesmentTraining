@@ -1,4 +1,4 @@
-Student Assessment Training Project
+#Student Assessment Training Project
 The Student Assessment Training project is designed to track student performance and assign appropriate modules and trainers based on their performance. This project utilizes Spring Boot, Java, RestAPI, and MySQL to achieve its goals. This README file provides an overview of the project, how to set it up, and how to use it effectively.
 
 Table of Contents
